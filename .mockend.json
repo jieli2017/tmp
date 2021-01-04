@@ -1,8 +1,1 @@
-{
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
-  }
-}
+	["jack","tom","eric"]
